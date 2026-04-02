@@ -63,21 +63,18 @@ A complete **Credit Card Financial Analysis** project built using **MySQL** and 
 ## 📊 Dashboard Overview
 
 ### Page 1 — Credit Card Transaction Report
+![Credit Card Transaction Dashboard](Credit_Card_Transaction_Dashboard.png)
+
 - **KPIs**: Total Revenue, Total Interest, Transaction Count, Transaction Amount
 - **Visuals**: QTR Revenue & Transaction Count (combo chart), Revenue by Card Category (matrix), Revenue by Expenditure Type, Revenue by Education, Revenue by Customer Job, Revenue by Use Chip, Customer by Card
 - **Filters**: Quarter, Income Group, Gender, Card Category, Week Start Date
 
 ### Page 2 — Credit Card Customer Report
+![Credit Card Customer Dashboard](Credit_Card_Customer_Dashboard.png)
+
 - **KPIs**: Total Revenue, Total Interest, Customer Satisfaction Score, Total Income
 - **Visuals**: Revenue by Week (line), Revenue by Age Group, Revenue by Job, Revenue by Salary Group, Revenue by Marital Status, Revenue by Education, Top 5 States, Revenue by Dependent Count
 - **Filters**: Quarter, Gender, Card Category, Week Start Date
-
-
----
-
-## 📸 Dashboard Preview
-![Credit Card Transaction Dashboard](Credit_Card_Transaction_Dashboard.png)
-![Credit Card Customer Dashboard](Credit_Card_Customer_Dashboard.png)
 
 ---
 
