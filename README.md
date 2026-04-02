@@ -74,6 +74,10 @@ A complete **Credit Card Financial Analysis** project built using **MySQL** and 
 
 
 ---
+## 📸 Dashboard Preview
+
+- 📄 [View Credit Card Customer Dashboard](Credit_Card_Customer_Dashboard.pdf)
+- 📄 [View Credit Card Transaction Dashboard](Credit_Card_Transaction_Dashboard.pdf)
 
 ## 📸 Dashboard Preview
 ![Credit Card Transaction Dashboard](Credit_Card_Transaction_Dashboard.png)
