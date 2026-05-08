@@ -79,24 +79,26 @@ A complete **Credit Card Financial Analysis** project built using **MySQL** and 
 ---
 
 ## 🔍 Key Insights
-- 💰 **Total Revenue: $45.5M** | **Total Interest Earned: $7.98M** | **667K transactions**
-- 📋 **Bills** was the #1 expenditure type at **$11.1M** — higher than Entertainment and Fuel combined
-- 👔 **Business professionals** generated the highest revenue at **$14.5M** — nearly 2x White-collar workers ($8.4M)
-- 💳 **Blue card** holders dominated with **$37.8M** — 83% of total card revenue
-- 📱 **Swipe transactions** accounted for **$28.5M** vs only **$2.8M** online — showing significantly lower digital adoption
-- 💵 **High income customers** contributed **$24.6M** vs **$8M** from Low income — a 3x difference
-- 📅 **Q4** was the strongest quarter at **$11.7M** — indicating a year-end spending spike
+- 💰 **Total Revenue: $56.5M** | **Total Interest Earned: $8.0M** | **667K transactions** | **Total Transaction Amount: $45.5M**
+- 📋 **Bills** was the #1 expenditure type at **$14M** — leading Entertainment and Fuel (both at $10M)
+- 👔 **Businessmen** generated the highest revenue at **$17.7M** — nearly 2x White-collar workers ($10.3M)
+- 💳 **Blue card** holders dominated with **$47.2M** — 83% of total card revenue
+- 📱 **Swipe transactions** accounted for **$36M** vs only **$4M** online — showing significantly lower digital adoption
+- 💵 **High income customers** contributed **$23M** vs **$10M** from Low income — over 2x difference
+- 📅 **Q4** was the strongest quarter at **$14.5M** — indicating a year-end spending spike
 - ⚠️ **624 delinquent accounts** identified — a key credit risk flag requiring immediate attention
-- 📍 **Texas and New York** were the top revenue states at ~$10.5M each
+- 📍 **Texas and New York** were the top revenue states at approximately **$13M each**
 - 📊 **Average credit utilization ratio: 27.45%**
+- 👥 **Male customers** generated **$31M** vs **$26M** from Female customers
 
 ---
 
 ## ✅ Business Value
 This dashboard helps:
-- 🎯 **Marketing Teams** — Target high-income segment for premium card upgrades
-- 💳 **Product Teams** — Push digital payment adoption — online usage is significantly low
-- ⚠️ **Risk Teams** — Monitor delinquent accounts proactively to reduce credit exposure
+
+- 🎯 **Marketing Teams** — Target high-income and Businessman segments for premium card upgrades
+- 💳 **Product Teams** — Push digital payment adoption — online usage at only $4M vs $36M via Swipe
+- ⚠️ **Risk Teams** — Monitor 624 delinquent accounts proactively to reduce credit exposure
 - 📅 **Sales Teams** — Capitalize on Q4 spending spike with targeted campaigns
 - 🏦 **Executives** — Make informed decisions on card category strategy and geographic expansion
 
@@ -105,4 +107,4 @@ This dashboard helps:
 ## 👨‍💻 Author
 **Rohit Wagh**  
 - 📧 Email: rohitwagh6264@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/rohit-wagh6264/ 
+- 🔗 LinkedIn: https://linkedin.com/in/rohit-wagh6264/
